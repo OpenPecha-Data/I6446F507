@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG0624
   title: ལམ་འབྲས་བརྒྱུད་པའི་གསོལ་འདེབས་བྲག་ཕུག་པས་མཛད་པ་ཁ་སྐོང་དང་བཅས་པ།
-  volume: ''
+  volume:
+    b1dc9df1990b48ed9b84e3c060d63420:
+      image_group_id: I1KG23245
+      title: Volume 1 of liturgical texts of the sa skya pa lam 'bras tradition for
+        recitation in the sgrub grwa at the new lumbini buddhist monastery
+      volume_number: 1
+      total_pages: 180
   author: ''
+ebook_metadata:
+  title: ལམ་འབྲས་བརྒྱུད་པའི་གསོལ་འདེབས་བྲག་ཕུག་པས་མཛད་པ་ཁ་སྐོང་དང་བཅས་པ།
+  author: ''
+  sku: P007982
+  cover: cover.jpg
+  layers:
+  - pagination
